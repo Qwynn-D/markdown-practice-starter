@@ -8,6 +8,5 @@
 [Python_for_beginners](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 
 ## About Me 
-- cross country track and ski team 
-- 3 siblings 
-- I go to Elk Rapids High School
+- **cross country track and ski team**
+- *I go to Elk Rapids High School*
