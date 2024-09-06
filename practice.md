@@ -8,7 +8,7 @@
 [Python_for_beginners](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 
 '''
-Hello :)
+Print(Hello)
 '''
 
 ## About Me 
