@@ -7,9 +7,9 @@
 
 [Python_for_beginners](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 
-'''
+```
 Print(Hello)
-'''
+```
 
 ## About Me 
 - **cross country track and ski team**
